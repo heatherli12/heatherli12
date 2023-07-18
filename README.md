@@ -1,7 +1,7 @@
 # Hi, I’m Heather!
-### I'm an incoming first-year at the University of Oxford studying Philosophy, Politics, and Economics!
+### I'm a second-year student at the University of Oxford studying Philosophy, Politics, and Economics!
 - 👀 I’m interested in international development, political sociology, and international relations.
-- 🌱 I’m currently learning how to use R!
+- 🌱 I’m currently learning how to use R, and here you'll find some of my past projects!
 - 🌸 I'm always open to learning more and developing my skills.
 
 <!---
